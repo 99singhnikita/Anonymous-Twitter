@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "375978423092",
+    "firebase_url": "https://anonymous-twitter99.firebaseio.com",
+    "project_id": "anonymous-twitter99",
+    "storage_bucket": "anonymous-twitter99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375978423092:android:b6b72009b788fc60",
+        "android_client_info": {
+          "package_name": "com.example.nikita.anonymoustwitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375978423092-5dr5orrtkajj62evs71nlt2dmu35h3dt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-WrErha6NbTbxFHljPx_Rk5Sgd8K6cdA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
